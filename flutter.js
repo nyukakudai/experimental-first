@@ -10,7 +10,7 @@ _flutter.loader = null;
 (function () {
   "use strict";
 
-  const baseUri = ensureTrailingSlash(getBaseURI());
+  const baseUri = "https://nyukakudai.github.io/experimental-first/";
 
   function getBaseURI() {
     const base = document.querySelector("base");
